@@ -1,0 +1,16 @@
+{
+  "name": "pressed-rose",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node bake_keys.js&& node fake_translator.js&& node final_file.js",
+    "clean": "rm -f output-keys.json && rm -f output-translated.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "flat": "^5.0.2"
+  }
+}

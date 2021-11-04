@@ -1,0 +1,13 @@
+{
+  "namespace": "some-namespace",
+  "quote": [
+    {
+      "image": "/image.jpg",
+      "image_alt": "Alt Text",
+      "position": "Center",
+      "name": "Name, Position",
+      "job_title": "Job Title",
+      "comment_html": "<p>Freeform HTML</p>"
+    }
+  ]
+}
